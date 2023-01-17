@@ -1,0 +1,4 @@
+,Model,RMSE
+0,Random Forest Regression #1,0.6974665749820651
+1,Linear Regression,0.6974568871488207
+2,Random Forest Regression #2,0.6974576677721982

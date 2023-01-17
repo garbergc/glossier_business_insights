@@ -1,0 +1,5 @@
+,Model,Accuracy
+0,Random Forest Classification #1,0.5997865528281751
+1,Random Forest Classification #2,0.5997865528281751
+2,Logistic Regression Classification,0.4610458911419424
+3,Decision Tree Classification,0.5997865528281751

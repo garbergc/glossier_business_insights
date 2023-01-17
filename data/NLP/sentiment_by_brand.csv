@@ -1,0 +1,10 @@
+,brand,sentiment,value,total_count,ratio
+0,ulta,positive,77250,100436,0.769
+1,ulta,negative,19689,100436,0.196
+2,ulta,neutral,3497,100436,0.035
+3,sephora,negative,42986,237304,0.181
+4,sephora,positive,185732,237304,0.783
+5,sephora,neutral,8586,237304,0.036
+6,fenty,neutral,246,6850,0.036
+7,fenty,positive,5639,6850,0.823
+8,fenty,negative,965,6850,0.141

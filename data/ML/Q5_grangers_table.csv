@@ -1,0 +1,4 @@
+,activity_count_x,daily_new_cases_x,daily_new_deaths_x
+activity_count_y,1.0,0.0,0.0
+daily_new_cases_y,0.0001,1.0,0.0
+daily_new_deaths_y,0.0,0.0,1.0
